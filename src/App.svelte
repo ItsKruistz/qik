@@ -1,8 +1,8 @@
 <main>
 
-<nav class="flex items-center justify-between flex-wrap bg-cyan-500 sticky z-10 top-0 p-2">
+<nav class="flex items-center justify-between flex-wrap bg-cyan-400 sticky z-10 top-0 p-2">
   <div class="flex items-center flex-shrink-0 text-black">
-    <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-cyan-400">
+    <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-cyan-300">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 fill-current" viewBox="0 -960 960 960">
         <path d="M160-240q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Z"/>
       </svg>
