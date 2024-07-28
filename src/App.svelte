@@ -1,6 +1,6 @@
 <main>
 
-<nav class="flex items-center justify-between flex-wrap bg-[1adee6] sticky z-10 top-0 p-2">
+<nav class="flex items-center justify-between flex-wrap bg-[#1adee6] sticky z-10 top-0 p-2">
   <div class="flex items-center flex-shrink-0 text-white">
     <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-cyan-300">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 fill-current" viewBox="0 -960 960 960">
