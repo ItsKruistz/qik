@@ -2,7 +2,7 @@
 
 <nav class="flex items-center justify-between flex-wrap bg-white shadow sticky z-10 top-0 p-2">
   <div class="flex items-center flex-shrink-0 text-black mr-6">
-    <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-neutral-100">
+    <button class="flex items-center justify-center h-10 w-10 rounded-full hover:bg-neutral-100">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 fill-current" viewBox="0 -960 960 960">
         <path d="M160-240q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Z"/>
       </svg>
@@ -10,7 +10,7 @@
     <span class="font-medium text-xl ml-2.5">Title</span>
   </div>
   <div class="block lg:hidden">
-    <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-neutral-100">
+    <button class="flex items-center justify-center h-10 w-10 rounded-full hover:bg-neutral-100">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 fill-current" viewBox="0 -960 960 960">
         <path d="M160-240q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Z"/>
       </svg>
