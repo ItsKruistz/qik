@@ -7,7 +7,7 @@
         <path d="M160-240q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Zm0-200q-17 0-28-11t-12-29q0-17 12-28t28-12h640q17 0 29 12t11 28q0 17-11 29t-29 11H160Z"/>
       </svg>
     </button>
-    <span class="font-medium text-xl ml-3">Title</span>
+    <span class="font-medium text-xl ml-2.5">Title</span>
   </div>
   <div class="block lg:hidden">
     <button class="flex items-center justify-center h-11 w-11 rounded-full hover:bg-neutral-100">
